@@ -9,7 +9,7 @@
 An end-to-end Business Intelligence and Advanced Analytics solution built in **Power BI** for a wholesale distribution business using the **Wide World Importers** dataset.  
 The project combines **SQL, Power Query, DAX, data modeling, KPI reporting, forecasting and dashboard storytelling** to analyze sales performance, customer behavior, supply chain operations, supplier activity, profitability, warehouse operations, financial reporting and business recommendations.
 
-![Executive Overview](images/01-executive-overview.png)
+![Executive Overview](images/01-executive-overview.PNG)
 
 ---
 
@@ -168,57 +168,57 @@ This solution enables business stakeholders to:
 ## 📷 Dashboard Preview
 
 ### 📊 Executive Overview
-![Executive Overview](images/01-executive-overview.png)
+![Executive Overview](images/01-executive-overview.PNG)
 
 ---
 
 ### 💰 Sales Performance Analysis
-![Sales Performance Analysis](images/02-sales-performance-analysis.png)
+![Sales Performance Analysis](images/02-sales-performance-analysis.PNG)
 
 ---
 
 ### 👥 Customer Analytics
-![Customer Analytics](images/03-customer-analytics.png)
+![Customer Analytics](images/03-customer-analytics.PNG)
 
 ---
 
 ### 🚚 Supply Chain & Logistics Analysis
-![Supply Chain Analysis](images/04-supply-chain-analysis.png)
+![Supply Chain Analysis](images/04-supply-chain-analysis.PNG)
 
 ---
 
 ### 🧾 Supplier / Vendor Analysis
-![Supplier Analysis](images/05-supplier-analysis.png)
+![Supplier Analysis](images/05-supplier-analysis.PNG)
 
 ---
 
 ### 📉 Profitability Analysis
-![Profitability Analysis](images/06-profitability-analysis.png)
+![Profitability Analysis](images/06-profitability-analysis.PNG)
 
 ---
 
 ### 📅 Time Intelligence Analysis
-![Time Intelligence Analysis](images/07-time-intelligence-analysis.png)
+![Time Intelligence Analysis](images/07-time-intelligence-analysis.PNG)
 
 ---
 
 ### 🔮 Forecasting & Predictive Analysis
-![Forecasting Analysis](images/08-forecasting-analysis.png)
+![Forecasting Analysis](images/08-forecasting-analysis.PNG)
 
 ---
 
 ### 💳 Financial Reporting Analysis
-![Financial Reporting Analysis](images/09-financial-reporting-analysis.png)
+![Financial Reporting Analysis](images/09-financial-reporting-analysis.PNG)
 
 ---
 
 ### 🏬 Warehouse Analysis
-![Warehouse Analysis](images/10-warehouse-analysis.png)
+![Warehouse Analysis](images/10-warehouse-analysis.PNG)
 
 ---
 
 ### 💡 General Insights & Recommendations
-![General Insights & Recommendations](images/11-general-insights-recommendations.png)
+![General Insights & Recommendations](images/11-general-insights-recommendations.PNG)
 
 ---
 
